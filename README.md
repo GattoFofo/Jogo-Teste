@@ -1,5 +1,8 @@
 # Jogo-Teste
 
+To Do:
+Learn to draw
+
 Tutorials:
  (2)Create Windown
 
